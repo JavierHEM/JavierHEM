@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/banner-moduvia.png" alt="Moduvia — Software modular. Soluciones reales." width="100%">
+  <img src="assets/banner-lema.png" alt="Moduvia — Software modular. Soluciones reales." width="100%">
 </picture>
 
 ### Hola, soy Javier 👋
