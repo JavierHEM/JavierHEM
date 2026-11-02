@@ -30,6 +30,6 @@ Co-fundador de [**Moduvia**](https://www.moduvia.cl), una empresa chilena de sof
 `Discovery` → `Arquitectura` → `Desarrollo iterativo` → `Mantención`
 
 #### Contacto
-[moduvia.cl](https://www.moduvia.cl) · [contacto@moduvia.cl](mailto:contacto@moduvia.cl)
+[moduvia.cl](https://www.moduvia.cl) · [contacto@moduvia.cl](mailto:contacto@moduvia.cl) · [LinkedIn](https://www.linkedin.com/in/javier-elgueta-masias-379b94ba/)
 
 *Software modular. Soluciones reales.*
